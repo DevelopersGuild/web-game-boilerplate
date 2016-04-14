@@ -16,4 +16,4 @@ app.get('/', function(req, res) {
 
 app.listen(3040);
 
-console.log('server is running');
+console.log('Server is now running at localhost:3040');
